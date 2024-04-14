@@ -18,5 +18,9 @@ While this project was done for a hack-a-thon submission, we believe this techno
 - Database: MongoDB
 
 
+## Screenshot:
+<img width="470" alt="image" src="https://github.com/hansapradhan/TalkMoneyLLM/assets/66682092/e5e2489c-ba31-44eb-9615-bbe4269d06f7">
+
+
 
 
