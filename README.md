@@ -5,6 +5,10 @@ Welcome to TalkMoney LLM, our submission for HooHacks 2024!
 ## About
 Our bank's website features an innovative tool, TalkMoney, which is an AI LLM chat intended to promote personal financial literacy by allowing consumers to ask questions related to their own transactions. 
 
+Link to the devopost:
+https://devpost.com/software/talkmoney-financial-literacy-llm
+
+
 ## Motivation
 Financial illiteracy poses a significant challenge in the United States, particularly affecting minority groups within lower socioeconomic brackets. By providing consumers with access to education tailored to their daily transactions and goals, our aim is to foster better financial decision-making and enhance financial literacy over time. Given that personal finance profoundly influences everyone's daily lives, we believe our project has a significant impact.
 
