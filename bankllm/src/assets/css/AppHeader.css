@@ -1,0 +1,106 @@
+header {
+    background: var(--secondary-background-color);
+    display: flex;
+}
+
+.text-logo {
+    font-family: var(--title-font-family);
+}
+
+.search-bar {
+    padding: 0.5em;
+
+}
+
+.search-bar::placeholder {
+    font-size: 12px; /* Adjust the font size as needed */
+}
+
+.bookstore-link{
+    width: 30%;
+    height: auto;
+}
+#leftHeader{
+    min-width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /*justify-content: space-evenly;*/
+    float: left;
+    width: 30%;
+}
+
+
+#icon{
+    padding-left: 1rem;
+}
+
+#rightHeader{
+    width: 20%;
+    min-width: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    float: right;
+}
+
+#mid{
+    display: flex;
+    width: 38%;
+}
+
+#categories-button{
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+#llm-button{
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+#login-button{
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+
+
+#form{
+    display: flex;
+
+}
+
+#icon{
+    display: flex;
+    align-items: center;
+}
+
+#cartIcon{
+    display: flex;
+    align-items: center;
+}
+
+#search-bar{
+    display: flex;
+    flex-direction: row;
+}
+
+.container-header {
+    padding: 1rem;
+    display: flex;
+    width: 100%;
+
+}
+
+#bookstore-text{
+    padding-left: 20px;
+}
+
+
+/* @media (max-width: 1200px) {
+  header {
+    flex-direction: column;
+  }
+} */

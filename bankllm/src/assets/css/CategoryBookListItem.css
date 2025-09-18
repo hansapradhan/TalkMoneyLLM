@@ -1,0 +1,60 @@
+#book-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+    gap: 1em;
+}
+.bank-text{
+    display: flex;
+    flex-direction: column;
+}
+.book-lists {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1em;
+    gap: 2em;
+
+}
+
+.category-book-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-box {
+    display: flex;
+    background-color: var(--card-background-color);
+    padding: 3.5em;
+    gap: 3em;
+    max-width: 500px;
+    justify-content: space-evenly;
+}
+
+.book-title {
+    font-weight: bold;
+}
+
+.book-author {
+    font-style: italic;
+}
+
+.book-image{
+    position: relative;
+
+
+}
+
+#read-now{
+    position: absolute;
+}
+
+#read-button{
+    font-size: 10px;
+    border-radius: 50%;
+}
+
+.bank-text {
+    color: white; /* Set the text color to white */
+    font-size: 1.5em; /* Adjust the font size to make it bigger */
+}
